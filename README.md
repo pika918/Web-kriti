@@ -5,7 +5,7 @@ In this website, you can see products using filters like Men's Fashion, Women's 
 You have to register first in account section and then you can explore products according to your needs.
 As a dealer, you can add products in your store and see your sales.
 # Screenshots
-<img src="BG2.jpg"/>
+
 <img src="ss1.png"/>
 # Features
 #### Frontend
