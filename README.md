@@ -6,7 +6,7 @@ You have to register first in account section and then you can explore products 
 As a dealer, you can add products in your store and see your sales.
 # Screenshots
 
-<img src="ss1.png"/>
+![My Image](Screenshots/ss1.png)
 # Features
 #### Frontend
 - This website has a creative look in which proper hovering effect is applied.
