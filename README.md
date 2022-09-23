@@ -4,9 +4,27 @@ Easy Bazaar is an e-commerce website which can be accessible by both user as wel
 In this website, you can see products using filters like Men's Fashion, Women's Fashion and Accessories.
 You have to register first in account section and then you can explore products according to your needs.
 As a dealer, you can add products in your store and see your sales.
-# Screenshots
-
-![My Image](Screenshots/ss1.png)
+Screenshots
+- Home Page for User
+  ![My Image](Screenshots/ss1.png)
+  ![My Image](Screenshots/ss2.png)
+  ![My Image](Screenshots/ss3.png)
+- Products Collection Page
+  ![My Image](Screenshots/ss9.png)
+- Individual Product's Page
+  ![My Image](Screenshots/ss7.png)
+- Account's Type  
+  ![My Image](Screenshots/ss10.png)
+- Sigin as a User
+  ![My Image](Screenshots/ss11.png)
+- Signup as a User
+  ![My Image](Screenshots/ss12.png)
+- Home Page of Seller Portal
+  ![My Image](Screenshots/ss13.png)
+- Add Products Page for a seller  
+  ![My Image](Screenshots/ss15.png)
+ 
+  
 # Features
 #### Frontend
 - This website has a creative look in which proper hovering effect is applied.
