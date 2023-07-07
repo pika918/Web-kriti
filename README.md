@@ -1,5 +1,5 @@
 # Project Title
-## **Easy Bazaar**
+## **Easy Bazaar** https://thebeast1819.github.io/Webkriti_New_Learner/frontpage.html
 Easy Bazaar is an e-commerce website which can be accessible by both user as well as dealer/seller. 
 In this website, you can see products using filters like Men's Fashion, Women's Fashion and Accessories.
 You have to register first in account section and then you can explore products according to your needs.
